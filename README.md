@@ -44,4 +44,4 @@
 
 **Contacts app | Python, Django, HTML**                 
 - Created a user- friendly Contacts Management application with an easy-to-use interference.  
-= Implement CRUD operations for managing contacts effectively.
+- Implement CRUD operations for managing contacts effectively.

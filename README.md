@@ -2,11 +2,9 @@
 
 ## Education
 
-**California State University, Long Beach - Long Beach, CA**                                  
--Master of Science in information systems
-Long Beach, CA 
-Expected - May 2025
-Related Coursework:  AWS, SPSS, Business Analytics, Python, Django, Pandas, Machine learning, DBMS. 
+**California State University, Long Beach  (_Long Beach, CA_)**                                  
+-Master of Science in information systems(_May 2025_)
+=Related Coursework:  AWS, SPSS, Business Analytics, Python, Django, Pandas, Machine learning, DBMS. 
 
 
 Sree Vidyanikethan Engineering College                                                                                                                     

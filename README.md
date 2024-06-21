@@ -1,8 +1,8 @@
 # Krishnavyas Desugari
 
-##Education
+## Education
 
-*California State University, Long Beach - Long Beach, CA*                                    
+**California State University, Long Beach - Long Beach, CA**                                  
 -Master of Science in information systems
 Long Beach, CA 
 Expected - May 2025
@@ -15,7 +15,7 @@ Tirupati, India
 Aug 2018– May 2022 
 Related Coursework: Operations Management, C, Finite Element Analysis, Rapid Prototyping.
 
-###Work Experiance
+### Work Experiance
 
 
-###Projects
+### Projects

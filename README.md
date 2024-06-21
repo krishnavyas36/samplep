@@ -4,6 +4,7 @@
 
 **California State University, Long Beach  (_Long Beach, CA_)**                                  
 -Master of Science in information systems(_May 2025_)
+
 -Related Coursework:  AWS, SPSS, Business Analytics, Python, Django, Pandas, Machine learning, DBMS. 
 
 

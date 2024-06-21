@@ -2,7 +2,7 @@
 
 ##Education
 
-California State University, Long Beach                                      
+-California State University, Long Beach                                      
 Master of Science in information systems
 Long Beach, CA 
 Expected - May 2025
